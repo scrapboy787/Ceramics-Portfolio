@@ -26,8 +26,8 @@ header{
     margin: auto;
     border-radius: 50%;
     border: solid darkslategrey 5px;
-    margin-top: 20px;
-    width: 50%;
+    margin-top: 20px ;
+    width: 40%;
 }
 .main p{
     margin: 40px;
@@ -92,4 +92,8 @@ header{
 }
 .main a{
     color: rgb(0, 174, 255);
+}
+#double{
+    margin-right: auto ;
+    margin-left: 15px;
 }
